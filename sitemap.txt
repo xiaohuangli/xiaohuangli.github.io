@@ -1,0 +1,9 @@
+http://example.com/categories/index.html
+http://example.com/tags/index.html
+http://example.com/2022/07/02/markdown_synctax/
+http://example.com/2022/07/02/ECS/
+http://example.com/
+http://example.com/tags/MarkDown-syntax/
+http://example.com/tags/ecs/
+http://example.com/categories/MarkDown/
+http://example.com/categories/ECS/
